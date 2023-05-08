@@ -1,0 +1,4 @@
+#git pull (aggiorni dal cloud al computer fisso)
+#git add . (prendi tutti i file)
+#git commit -m "commento" (commento aggiornamento)
+#git push (mando sul cloud)
